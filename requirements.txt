@@ -1,0 +1,16 @@
+# Data Manipulation & Analysis
+pandas
+numpy<2.0.0
+
+# Machine Learning & Preprocessing
+scikit-learn
+mlxtend
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook Execution & Environment
+jupyter
+papermill
+ipykernel
